@@ -6,4 +6,6 @@ Horiseon was our first homework assignment. We were instructed to change the cod
 
 # How To Install
 
-Git clone https://github.com/kmfox1087/Horiseon-CSS-and-HTML-Challenge-1 to your computer
+git clone https://github.com/kmfox1087/Horiseon-CSS-and-HTML-Challenge-1 to your computer
+git pull to make sure your repo is up to date
+git status to make sure you are on the main branch and everything is up to date

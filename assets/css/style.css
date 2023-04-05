@@ -10,6 +10,7 @@ header {
     background-color: #7395AE;
     color: #ffffff;
 }
+
 body {
     background-color: #5D5C61;
 }
@@ -24,9 +25,7 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
-    color: #ffffff;
-}
+
 
 header div {
     padding-top: 15px;
@@ -92,17 +91,7 @@ a {
     color: #ffffff;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+main {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -124,12 +113,12 @@ a {
 }
 
 .header div ul {
-    list-style-type: none;
+    list-style-type: circle;
 }
 
 .header div ul li {
-    display: inline-block;
-    margin-left: 25px;
+    display: inline;
+    margin-right: 50px;
 }
 
 .benefit-lead img {
@@ -157,6 +146,7 @@ a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #557a95;
     color: #ffffff;
+    
 }
 
 .online-reputation-management {
